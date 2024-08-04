@@ -1,1 +1,1 @@
-# ML_AI_ICL
+# Machine Learning and Artificial Intelligence (ICL)
