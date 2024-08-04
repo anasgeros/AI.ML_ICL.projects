@@ -1,1 +1,1 @@
-# Machine Learning and Artificial Intelligence (ICL)
+# Machine Learning and Artificial Intelligence Programme (Imperial College London)
