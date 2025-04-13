@@ -9,3 +9,5 @@ Portfolio containing all projects explored during the "Professional Certificate 
 3 - Lung Cancer Prediction
 
 4 - Benign vs Malignant Tumor Prediction (ongoing)
+
+5 - Malaria Infection Prediction - Image Recognition using CNNs
